@@ -1,20 +1,9 @@
-/* document.addEventListener('DOMContentLoaded', function () {
-    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
-    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-        return new bootstrap.Tooltip(tooltipTriggerEl);
-    });
+function actualizarContadorCarrito() {
+    const carrito = JSON.parse(localStorage.getItem("carrito")) || [];
+    const contador = carrito.reduce((total, item) => total + item.cantidad, 0); 
+    document.getElementById("cart-count").textContent = contador;
+}
 
-    let cartCount = 0;
-
-    function updateCartCount() {
-        document.getElementById('cart-count').innerText = cartCount;
-    }
-
-    document.addEventListener('click', function (event) {
-        if (event.target && event.target.matches('.add-to-cart')) {
-            cartCount++;
-            updateCartCount();
-        }
-    });
-}); */
-// esto servira mejor mas adelante
+document.addEventListener("DOMContentLoaded", () => {
+    actualizarContadorCarrito();
+});
