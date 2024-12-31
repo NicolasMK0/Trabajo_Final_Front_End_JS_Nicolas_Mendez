@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "nombre": "SILLA GAMER AUREOX G400 NEGRA Y ROJO",
+      "slug": "producto-1",
+      "descripcion": "Marca: Aureox Modelo: G400 Apoyabrazos: Sí Respaldo reclinable: Sí Gamer: Sí Ergonómica: Sí Giratoria: Sí Ruedas: Sí",
+      "imagen": "images/silla-gamer-aureox-g400-negra-y-rojo-0.jpg",
+      "precio": 231.999,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "nombre": "Auricular Zeus X Rgb Sonido 7.1 Virtual Usb Redragon",
+      "descripcion": "auricular",
+      "imagen": "images/Auricular Zeus X Rgb.jpg",
+      "precio": 99.999,
+      "stock": 130
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Gamer Mars Gaming MRK0 RGB Rainbow",
+      "descripcion": "Teclado",
+      "imagen": "images/Teclado Gamer Mars MRK0 RGB Rainbow.png",
+      "precio": 12.999,
+      "stock": 80
+    },
+    {
+      "id": 4,
+      "nombre": "Placa De Video Geforce Pny Rtx 4060 Triple Fan Rgb 8gb Gddr6",
+      "descripcion": "Placa de video",
+      "imagen": "images/placa-de-video-geforce-pny-rtx-4060-triple-fan-rgb-8gb-gddr6.jpg",
+      "precio": 489.556,
+      "stock": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Mother Gigabyte H470m-h S1200",
+        "descripcion": "MotherBoards",
+        "imagen": "images/mother-gigabyte-h470m-h-s1200.jpg",
+        "precio": 93.807,
+        "stock": 60
+    },
+    {
+        "id": 6,
+        "nombre": "GABINETE SENTEY H10 BLACK VIDRO LATERAL Y FRONTAL",
+        "descripcion": "Gabinete",
+        "imagen": "images/gabinete-sentey-h10-black-vidro-lateral-y-frontal-0.jpg",
+        "precio": 34.279,
+        "stock": 150
+    },
+    {
+        "id": 7,
+        "nombre": "MOUSE GAMER MSI FORGE GM300 RGB 7200 DPI",
+        "descripcion": "Mouse",
+        "imagen": "images/mouse-gamer-msi-forge-gm300-rgb-7200-dpi-0.jpg",
+        "precio": 21.997,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "nombre": "FUENTE 550W SENTEY SDP550 80 PLUS WHITE",
+        "descripcion": "Fuente",
+        "imagen": "images/fuente-550w-sentey-sdp550-80-plus-white-0.jpg",
+        "precio": 57.614,
+        "stock": 40
+    },
+    {
+        "id": 9,
+        "nombre": "CPU COOLER COOLERMASTER HYPER T200",
+        "descripcion": "Cooler",
+        "imagen": "images/cpu-cooler-coolermaster-hyper-t200-0.jpg",
+        "precio": 24.869,
+        "stock": 70
+    },
+    {
+        "id": 10,
+        "nombre": "MICRO AMD RYZEN 5 5600GT C/VIDEO C/COOLER AM4 REEMPLAZA AL 5600G",
+        "descripcion": "Procesador",
+        "imagen": "images/micro-amd-ryzen-5-5600gt-cvideo-ccooler-am4-reemplaza-al-5600g-0.jpg",
+        "precio": 186.136,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "nombre": "MICRO AMD RYZEN 9 7950X3D C/VIDEO S/COOLER AM5",
+        "descripcion": "Procesador",
+        "imagen": "images/micro-amd-ryzen-9-7950x3d-cvideo-scooler-am5-0.jpg",
+        "precio": 831.466,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "nombre": "MICRO AMD RYZEN 5 9600X C/VIDEO S/COOLER AM5",
+        "descripcion": "Procesador",
+        "imagen": "images/micro-amd-ryzen-5-9600x-cvideo-scooler-am5-0.jpg",
+        "precio": 326.499,
+        "stock": 10
+    }
+  ]
