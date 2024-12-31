@@ -51,7 +51,6 @@ document.addEventListener("click", (event) => {
 
     localStorage.setItem("carrito", JSON.stringify(carrito));
 
-    // Llamamos a la función que actualiza el contador en el navbar
     actualizarContadorCarrito();
   }
 });
